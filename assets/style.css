@@ -17,6 +17,7 @@ body{
     align-items: center;
     margin-right:40px ;
     margin-bottom: 40px;
+    border-radius: 10px;
 }
 
 
@@ -27,4 +28,27 @@ body{
     width: 80%;
     margin: auto;
     
+}
+.fizz{
+     background-color: rgba(97, 210, 164, 1);
+     color: black;
+     font-size: 30px;
+
+}
+.buzz{
+    background-color: rgba(249, 210, 119, 1);
+    color: black;
+    font-size: 30px;
+
+}
+
+.fizzbuzz{
+    background-color:rgba(222, 84, 113, 1) ;
+    color: black;
+    font-size: 30px;
+}
+.normal{
+    background-color:rgba(61, 136, 174, 1) ;
+    color: black;
+    font-size: 30px;
 }
